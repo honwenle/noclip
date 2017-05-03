@@ -1,0 +1,23 @@
+{
+  "name": "npm-noclip",
+  "version": "1.0.1",
+  "description": "noclip's js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honwenle/npm-noclip.git"
+  },
+  "keywords": [
+    "noclip",
+    "js"
+  ],
+  "author": "honwenle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honwenle/npm-noclip/issues"
+  },
+  "homepage": "https://github.com/honwenle/npm-noclip#readme"
+}

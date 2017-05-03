@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/honwenle/npm-noclip.git"
+    "url": "git+https://github.com/honwenle/noclip.git"
   },
   "keywords": [
     "noclip",
@@ -17,7 +17,7 @@
   "author": "honwenle",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/honwenle/npm-noclip/issues"
+    "url": "https://github.com/honwenle/noclip/issues"
   },
-  "homepage": "https://github.com/honwenle/npm-noclip#readme"
+  "homepage": "https://github.com/honwenle/noclip#readme"
 }

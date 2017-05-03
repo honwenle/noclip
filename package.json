@@ -1,6 +1,6 @@
 {
   "name": "noclip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "noclip's js package",
   "main": "index.js",
   "scripts": {
